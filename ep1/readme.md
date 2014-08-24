@@ -1,11 +1,20 @@
-Episódio I: A Ameaça da Serpente
+Episódio II: O Ataque das Estuturas de Controle
 ==========
 
-----------------
+### Exercitando a Força
 
-### Exercitando a Força  
-1. Crie um programa que imprime “Ola mundo!” dez vezes.
-2. Crie um programa que pegue como entrada dois números e imprima a soma deles.
-3. Agora melhore o programa anterior a faça com que ele imprima o resultado de uma expressão aritmética passada
- pelo teclado.
-4. Faça um programa que receba dois números e compare se um é maior que o outro
+1. Faça uma função soma e utilize-a para fazer uma função multiplicação.
+2. Faça uma função que receba como entrada uma palavra e diga se ela é
+palíndroma.
+3. Faça uma função que receba um número n e que imprima uma pirâmide invertida
+de números:  
+1, 2, 3, ... n  
+...  
+1, 2, 3  
+1, 2  
+1  
+
+4. Faça uma versão recursiva da função da questão anterior.
+5. Faça uma função que receba um número inteiro e decomponha em fatores de
+unidade, dezena, centena, milhares, etc. Ex.: (1203) imprime ( 1000 + 200 + 3)
+6. Faça a versão recursiva da questão anterior.
